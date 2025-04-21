@@ -42,7 +42,8 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![file1](./IMAGE/CREATE FILE.png)
+![FILE1](https://github.com/user-attachments/assets/764eedda-fa49-4b2d-a1db-ea3cbf539d56)
+
 
 
 cat < file2
