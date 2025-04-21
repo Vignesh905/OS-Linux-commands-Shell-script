@@ -42,7 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-[file1](CREATE FILE.png)
+![file1](CREATE FILE.png)
 
 
 cat < file2
